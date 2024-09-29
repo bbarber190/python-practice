@@ -1,11 +1,11 @@
-# python-practice
+r# python-practice
 practicing python 
 '''mood = input("Hey Brandon this is Sonic how are you! ")
 print("Nice! im" ,mood,"too just running in green hill zone! Its very nice out here! im about to hit up a chilli dog "
                       "suprsingly with Robonik!")
 q2 = "on a scale 1- 100 rings how much you bet its a trap?"
 rating = eval(input(q2))
-print("Yeah i had a feeling. I already doged a badnick' ) '''
+print("Yeah i had a feeling. I already dogged a badnick' ) '''
 
 
 
